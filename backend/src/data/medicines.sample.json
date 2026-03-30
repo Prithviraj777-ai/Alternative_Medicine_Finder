@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Paracip 500",
+    "manufacturer": "HealWell Pharma",
+    "saltComposition": "Paracetamol 500mg",
+    "price": 32,
+    "packSize": "10 tablets",
+    "form": "Tablet",
+    "mrp": 40,
+    "category": "Pain Relief"
+  },
+  {
+    "name": "DoloSafe 500",
+    "manufacturer": "CarePlus Labs",
+    "saltComposition": "Paracetamol 500mg",
+    "price": 24,
+    "packSize": "10 tablets",
+    "form": "Tablet",
+    "mrp": 35,
+    "category": "Pain Relief"
+  },
+  {
+    "name": "AmoxiCure 250",
+    "manufacturer": "MediNova",
+    "saltComposition": "Amoxicillin 250mg",
+    "price": 85,
+    "packSize": "6 capsules",
+    "form": "Capsule",
+    "mrp": 95,
+    "category": "Antibiotic"
+  },
+  {
+    "name": "VitBoost C",
+    "manufacturer": "NutriLife",
+    "saltComposition": "Ascorbic Acid 500mg",
+    "price": 58,
+    "packSize": "15 tablets",
+    "form": "Tablet",
+    "mrp": 65,
+    "category": "Vitamin"
+  }
+]
